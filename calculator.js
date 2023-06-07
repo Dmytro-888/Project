@@ -7,3 +7,11 @@ function calculate(button) {
 document.querySelectorAll(".operator,.number").forEach(button => {
   button.onclick = () => calculate(button) 
 })
+
+function result() {
+  screen.textContent = eval(screen.textContent)
+}
+
+function clean() {
+  screen.textContent = ""
+}
