@@ -1,0 +1,16 @@
+.calculator {
+    border:1px solid black;
+    width: 400px;
+    height: 540px;
+    margin: 0 auto;
+}
+.screen {
+    border:1px solid black;
+    width: 350px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.title {
+    color: red;
+}
