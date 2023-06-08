@@ -1,18 +1,18 @@
 .calculator {
 
     color: black;
-    border:1px solid black;
     width: 380px;
     height: 520px;
     margin: 0 auto;
+    background-color:  black;
     
 }
 .screen {
-    border:1px solid black;
-    width: 350px;
+    width: 365px;
     height: 60px;
-    margin: 10px;
-    font-size:30px;
+    margin:6px;
+    font-size:40px;
+    background-color: white;
 }
 
 .title {
@@ -23,23 +23,28 @@
     width: 80px;
     height:60px;
     margin:6px;
-    font-size:30px   
+    font-size:30px;
+    background-color:  lemonchiffon;
+
 }
 .number {
     width: 80px;
     height:60px;
     margin:6px;
-    font-size:40px;  
+    font-size:40px;
+    background-color:  grey;
 }
 .result {
     width: 80px;
     height:60px;
     margin:6px;
-    font-size:30px 
+    font-size:30px;
+    background-color: sienna;
 }
 .clean {
     width: 80px;
     height:60px;
     margin:6px;
-    font-size:30px  
+    font-size:30px;
+    background-color: orange ;
 }
